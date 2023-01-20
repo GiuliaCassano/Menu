@@ -1,0 +1,57 @@
+.Card{
+    margin: 10px;
+    margin-bottom:25px;
+    border-radius: 13px;
+}
+
+.name{
+    background-color: #fb5607;
+    font-size: 16px;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: solid #fb5607;
+    border-radius: 5px;
+    padding: 10px;
+    padding-left: 7px;
+    text-align: left;
+}
+
+.ingredient{
+    background-color: #fb8b24;
+    padding: 10px;
+    border: solid #fb5607;
+    border-radius:5px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.price{
+    background-color: #fb8b24;
+    padding: 10px;
+    border: solid #fb5607;
+    border-radius:5px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.buttonZone{
+    font-size: 23px;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+    padding-top: 5px;
+    padding-right: 5px;
+    display: grid;
+    text-align: right;
+    grid-template-columns: 40% 60%;
+  }
+
+  .button {
+    color: #d00000;
+    background-color: #ffd166;
+    margin-top: 7px;
+    margin-left: 7px;
+    font-size: 15px;
+    padding: 5px;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+    border: solid 2px white;
+    border-radius: 15px;
+  }
